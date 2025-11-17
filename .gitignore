@@ -1,0 +1,19 @@
+# Build artifacts
+target/
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Log files
+*.log
+
+# Mac/Windows specific
+.DS_Store
+Thumbs.db
